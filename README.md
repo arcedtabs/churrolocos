@@ -95,7 +95,6 @@
             <div class="flex flex-wrap gap-2">
               <span class="flavor-chip bg-orange-100 text-orange-800 px-4 py-2 rounded-full">Classic Cinnamon</span>
               <span class="flavor-chip bg-blue-100 text-blue-800 px-4 py-2 rounded-full">Chocolate Dip</span>
-              <span class="flavor-chip bg-yellow-100 text-yellow-800 px-4 py-2 rounded-full">Cheese Supreme</span>
             </div>
           </div>
 
